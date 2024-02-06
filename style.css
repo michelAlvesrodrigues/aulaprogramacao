@@ -1,0 +1,24 @@
+body {
+    padding-top: 50px;
+    background-image: url(images.png);
+    background-repeat: no-repeat;
+    background-size: 20%;
+    
+  .profile-card {
+    max-width: 400px;
+    margin: 0 auto;
+    background-color: #f774c2;
+    padding: 20px;
+    border-radius: 10px;
+  }
+  .profile-img {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    margin: 0 auto;
+    display: block;
+  }
+  .profile-name {
+    text-align: center;
+    margin-top: 20px;
+  }
